@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\plapi\source\repos\ConsoleApplication1\ConsoleApplication1\WeakPtr.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+  WeakPtr.h
+C:\Users\plapi\source\repos\ConsoleApplication1\ConsoleApplication1\WeakPtr.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\plapi\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
